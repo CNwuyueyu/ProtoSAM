@@ -1,5 +1,5 @@
-# MPFS-SAM
- Multi-Modal Prompt-Free Few-Shot SAM for Retinal Segmentation
+# ProtoSAM
+A Lightweight Prototype-Guided Self-Prompting SAM for Few-Shot Retinal Vessel Segmentation
 
 
-The code will be published after the paper is submitted！
+The code will be comming soon！
